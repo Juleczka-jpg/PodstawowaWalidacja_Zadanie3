@@ -1,6 +1,4 @@
-﻿using Org.Apache.Http.Authentication;
-
-namespace MauiApp18;
+﻿namespace MauiApp18;
 /********************************************
 nazwa funkcji: PasswordStrengthBehavior
 opis funkcji: Behavior podłączany do Entry, który ocenia siłę hasła na podstawie długości, obecności cyfry i wielkiej litery. Wynik wyświetlany jest w powiązanym Labelu.
